@@ -4,5 +4,6 @@ Aoki is AIGC Model
 Start your project
 
 ## Todo
-- [] AIGC is go
-- [] ak
+- [ ] AIGC is go
+- [ ] ak
+- [ ] LLyt
